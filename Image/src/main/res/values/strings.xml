@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="choice">선택을 시작하시겠습니까?</string>
+    <string name="choice2">좋아하는 안드로이드 버전은?</string>
+    <string name="version1">젤리빈(4.3)</string>
+    <string name="version2">킷캣(4.4)</string>
+    <string name="version3">롤리팝(5.0)</string>
+    <string name="exit">종료</string>
+    <string name="re">처음으로</string>
+    <string name="st">시작함</string>
+    <string name="title">안드로이드 사진 보기</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
