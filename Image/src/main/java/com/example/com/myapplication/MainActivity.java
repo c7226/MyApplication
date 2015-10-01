@@ -71,7 +71,7 @@ public class MainActivity extends Activity {
             public void onClick(View arg0) {
                 switch (rG.getCheckedRadioButtonId()) {
                     case R.id.rBtn1:
-                        verImg.setImageResource(R.drawable.jelly_bean);
+                        verImg.setImageResource(R.drawable.jellybean);
                         break;
                     case R.id.rBtn2:
                         verImg.setImageResource(R.drawable.kitkat);
